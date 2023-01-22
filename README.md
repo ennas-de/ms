@@ -26,8 +26,8 @@ Front End:
 
 ```
 $ cd client
-$ npm install or yarn add
-$ npm start or yarn start
+$ npm install
+$ npm start
 ```
 
 To run this project, install it locally using npm :
@@ -36,8 +36,8 @@ Back End:
 
 ```
 $ cd server
-$ npm install or yarn install
-$ npm run dev || yarn run dev (development) OR npm run start  ||  yarn run (production)
+$ npm install
+$ npm run dev (development) || npm run start  (production)
 ```
 
 ## How It Works
@@ -48,4 +48,4 @@ $ npm run dev || yarn run dev (development) OR npm run start  ||  yarn run (prod
 
 ### Author
 
-- [Muhammed Abdulhakeem](https://abdulhakeem-muhammed.netlify.app/)
+- [Abdulhakeem Muhammed](https://abdulhakeem-muhammed.netlify.app/)

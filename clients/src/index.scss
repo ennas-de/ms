@@ -1,0 +1,8 @@
+// Override default variables before the import
+$body-bg: #ddd;
+
+// Import Bootstrap and it's default variables
+@import "~bootstrap/scss/bootstrap.scss";
+
+// Import MDBootstrap and it's default variables
+// @import "~mdb-ui-kit/css/mdb.min.css";

@@ -1,0 +1,21 @@
+.table {
+  /* margin: -10px; */
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+
+.table th {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.dark-column {
+  background-color: #362f4b;
+  color: white;
+}
+
+.extend {
+  min-width: 5rem;
+}

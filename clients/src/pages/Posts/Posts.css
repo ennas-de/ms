@@ -1,0 +1,10 @@
+#data-table {
+  margin: 0;
+  background-color: white;
+}
+
+.search,
+.paragraph {
+  padding: 2rem;
+  align-content: center;
+}
